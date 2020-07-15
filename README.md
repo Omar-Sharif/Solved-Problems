@@ -1,2 +1,2 @@
-# Solved-Problems
-Collection of problems solved by me on different online judge.
+# Competitive-Programming
+Source code of the problems on different online judges (i.e. Codeforces, UVA, LightOj). I have solved these problems as a part of my preparation for national and regional programming contest (ICPC, NCPC). 
